@@ -1,2 +1,2 @@
 fruits = ["apple", "banana", "cherry"]
-fruits.remove("banana")
+print(len(fruits))
