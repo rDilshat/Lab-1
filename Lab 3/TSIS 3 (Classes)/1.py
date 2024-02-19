@@ -8,3 +8,4 @@ b = console()
 
 userInput = b.getString()
 b.printString(userInput)    
+
